@@ -1,6 +1,6 @@
-# virtual_Ccinic_policy
+# Virtual clinic policy
 
-**Privacy Policy**
+**Virtual clinic Privacy Policy**
 
 Ezzulddin Sahib and Dhualfiqar Basim built the Virtual clinic app as a Free app. This SERVICE is provided by Ezzulddin Sahib and Dhualfiqar Basim at no cost and is intended for use as is.
 
