@@ -1,3 +1,7 @@
+layout: page
+title: "Virtual clinic policy"
+permalink: /
+
 # Virtual clinic policy
 
 **Virtual clinic Privacy Policy**
