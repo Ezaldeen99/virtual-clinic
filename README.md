@@ -57,7 +57,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Terms & conditions**
 
-*   [Terms & conditions](https://ezaldeen99.github.io/virtual-clinic/terms)
+*   [Terms & conditions](./terms.md)
 
 
 **Children’s Privacy**
