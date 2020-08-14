@@ -59,6 +59,10 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2020-08-14
 
+# Terms and conditions 
+
+*   [Terms and conditions](https://www.google.com/policies/privacy/)
+
 # **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at azozsahb99@gmail.com or Sohrabiq@gmail.com.
